@@ -30,7 +30,7 @@ Pandas
 Plotly
 Statsmodels.api
 
-### Responsbilities for Each Team Member:
+### Responsibilities for Each Team Member:
 
 Jessica: Collaborated on preparing/cleaning the data in the data preparation and question #1 file, analyzed the final dataset to answer question #3 and question #3 file, cleaned the github repository, prepped the initial readme file
 
