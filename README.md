@@ -41,5 +41,7 @@ Thomas: Collaborated on preparing/cleaning the data in the data preparation and 
 ### Githubs
 
 Jessica Camacho: https://github.com/jessicac818
+
 Samantha Meza: https://github.com/samanthaameza
+
 Thomas Ye: https://github.com/Stefin-MR
